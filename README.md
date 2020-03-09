@@ -1,1 +1,1 @@
-# mobile
+# Przelwy24 Mobile SDK Page
